@@ -146,9 +146,7 @@ I'm always interested in discussing:
 
 **AI • LLMs • Distributed Systems • Backend Development • Open Source • Software Engineering**
 
-📧 Email: `your-email@example.com`
-
-💼 LinkedIn: `your-linkedin-url`
+📧 Email: `antrikshrana187@gmail.com`
 
 ---
 
