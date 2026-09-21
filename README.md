@@ -1,47 +1,38 @@
-# 👋 Hey, I'm Antriksh Rana
+# Antriksh Rana
 
-### CSE Student • AI/ML • Distributed Systems • Backend Development
+### Computer Science & Engineering Student
 
-I enjoy building things at the intersection of **AI, software systems, and backend engineering**.
+**AI/ML · Backend · Distributed Systems · Systems**
 
-Currently exploring LLM applications, distributed systems, operating systems, and scalable software architecture.
-
----
-
-## 🧠 About Me
-
-* 🎓 Computer Science & Engineering student
-* 🤖 Interested in **AI, LLMs, and intelligent systems**
-* 🖥️ Exploring **Operating Systems & Distributed Systems**
-* ⚙️ Learning backend architecture and system design
-* 🚀 Building projects to learn by doing
-* 💡 Interested in understanding how software works under the hood
+I build software to understand how systems work — from LLM orchestration and backend services to distributed systems and low-level programming.
 
 ---
 
-## 🚀 What I'm Building
+## 🧩 Projects
 
 ### 🤖 AI Harness
 
-A modular framework for working with multiple LLMs through a common interface.
+A modular framework for routing and orchestrating multiple LLMs.
 
-**Exploring:**
-
-`LLM Routing` `Model Registry` `Gemini` `Local Models` `Python`
-
-The project focuses on creating a clean architecture where different AI models can be integrated, tested, and routed through a common system.
-
----
+`Python` `LLMs` `Gemini` `Model Routing`
 
 ### 📦 Distributed File Management System
 
-A Python-based distributed storage system designed around **file chunking, node management, and database-backed metadata**.
+A distributed storage system built around file chunking, node management, and database-backed metadata.
 
-**Exploring:**
+`Python` `FastAPI` `PostgreSQL` `Docker`
 
-`Python` `FastAPI` `Docker` `PostgreSQL` `Distributed Systems`
+### 🖥️ MiniShell
 
-The system simulates multiple storage nodes and distributes file chunks across them.
+A Unix-like shell implemented in C.
+
+`C` `Linux` `Operating Systems`
+
+### 📊 Algorithm Visualizer
+
+Interactive visualization of algorithms and data structures.
+
+`React` `TypeScript` `Algorithms`
 
 ---
 
@@ -49,111 +40,69 @@ The system simulates multiple storage nodes and distributes file chunks across t
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,typescript,javascript" />
+</p>
 
-### AI / Data
+### AI & Data
 
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square\&logo=google\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
-### Backend / Web
+### Backend & Web
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react" />
+</p>
 
 ### Databases & Infrastructure
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite,docker,git,github,linux" />
+</p>
 
 ---
 
-## 🔬 Areas I'm Exploring
+## 🔭 Currently Exploring
 
-```text
-Artificial Intelligence
-        │
-        ├── LLM Applications
-        ├── AI Agents
-        ├── Tool Calling
-        └── Model Routing
-
-Systems
-        │
-        ├── Operating Systems
-        ├── Distributed Systems
-        ├── Networking
-        └── System Design
-
-Software Engineering
-        │
-        ├── Backend Development
-        ├── APIs
-        ├── Databases
-        └── Containerization
-```
-
----
-
-## 📌 Featured Projects
-
-> Check out my pinned repositories below to see what I'm currently working on.
-
-| Project                        | Description                                   |
-| ------------------------------ | --------------------------------------------- |
-| 🤖 **AI Harness**              | Modular multi-model LLM framework             |
-| 📦 **Distributed File System** | Distributed file storage and chunk management |
-| 🖥️ **MiniShell**              | Unix-like shell implemented in C              |
-| 📊 **Algorithm Visualizer**    | Interactive visualization of algorithms       |
-
----
-
-## 📚 Currently Learning
-
-* 🧠 LLM architecture & AI agents
-* 🔎 Retrieval-Augmented Generation
-* 🗄️ Database architecture
+* 🤖 LLM applications & AI agents
+* 🔀 Model routing & orchestration
 * 🌐 Distributed systems
-* 🐳 Docker & containerization
-* ⚡ FastAPI & backend development
+* ⚙️ Backend architecture
+* 🗄️ Database systems
 * 💻 Operating systems
-* 🌐 Computer networks
-* ☁️ Scalable system design
+* 🧩 System design
 
 ---
 
-## 🎯 My Approach
+## 📈 GitHub
 
-> **Learn → Build → Break → Debug → Understand → Build Better**
-
-I prefer learning technologies by actually building projects with them rather than only studying theory.
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in discussing:
-
-**AI • LLMs • Distributed Systems • Backend Development • Open Source • Software Engineering**
-
-📧 Email: `antrikshrana187@gmail.com`
+<p>
+<a href="https://github.com/AntrikshRana">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AntrikshRana&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</a>
+<a href="https://github.com/AntrikshRana">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntrikshRana&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+</p>
 
 ---
 
-### ⚡ Fun Fact
+## 📫 Contact
 
-I probably learn more from debugging a project at 2 AM than from the tutorial that started it.
+<p>
+<a href="mailto:antrikshrana187@gmail.com">
+<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/AntrikshRana">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 ---
 
-⭐ **If you find one of my projects interesting, feel free to explore the repository!**
+### `Learn → Build → Debug → Understand`
