@@ -79,16 +79,7 @@ Interactive visualization of algorithms and data structures.
 
 ---
 
-## 📈 GitHub
-
-<p>
-<a href="https://github.com/AntrikshRana">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AntrikshRana&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</a>
-<a href="https://github.com/AntrikshRana">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntrikshRana&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-</p>
+<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=AntrikshRana&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntrikshRana&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 
