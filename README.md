@@ -79,7 +79,20 @@ Interactive visualization of algorithms and data structures.
 
 ---
 
-<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=AntrikshRana&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntrikshRana&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+## 📈 GitHub
+
+<p align="center">
+  <img
+    height="180"
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
+  />
+  <img
+    height="180"
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
