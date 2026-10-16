@@ -21,5 +21,11 @@ Computer Science student interested in AI/ML, backend development, and distribut
 **Backend & tools**  
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,postgresql,sqlite,docker,git,linux" alt="FastAPI, Node.js, React, PostgreSQL, SQLite, Docker, Git, Linux" />
 
+## GitHub Stats
+<p align="center">
+  <img src="profile/stats.svg" alt="GitHub stats" width="440" />
+  <img src="profile/top-langs.svg" alt="Top languages" width="440" />
+</p>
+
 ## Contact
 [Email](mailto:antrikshrana187@gmail.com) · [GitHub](https://github.com/AntrikshRana)
